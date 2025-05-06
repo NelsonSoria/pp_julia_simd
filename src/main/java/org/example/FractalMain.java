@@ -192,7 +192,7 @@ public class FractalMain {
     }
 
     public static void main(String[] args) {
-        System.setProperty("java.library.path", "C:/tools/librerias");
+        System.setProperty("java.library.path", "C: tools/librerias");
         new FractalMain().run();
     }
 }
